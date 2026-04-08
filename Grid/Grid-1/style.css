@@ -8,7 +8,8 @@
 .container>div {
     border: 2px solid;
     padding: 20px;
-    background-color: lightgrey;
+    background-color: lightcoral;
+    color: black;
 
 }
 
